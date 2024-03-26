@@ -12,4 +12,7 @@
 * Distortion coefficient (k1, k2, p1, p2, k3) = 0.251413, -1.188235, 0.009189, 0.011738, 1.854149
 
 ## 렌즈 왜곡 보정 결과 데모
+`Original`  
+![original_img](./original_img.png)
+`Corrected`
 ![corrected_img](./corrected_img.png)
